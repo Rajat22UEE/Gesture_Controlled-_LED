@@ -36,9 +36,7 @@ This project demonstrates how to control five LEDs using hand gestures detected 
     - Connect the cathodes (short legs) of the LEDs to resistors (220Ω), and then connect the other ends of the resistors to the ground (GND) on the Arduino.
 
 
-**DEMO VIDEO**
-[!Video demo of LED Control]{Gesture_Controlled-_LED
-/Gesture_Controlled_LED.mp4/}
+
 
 
 
