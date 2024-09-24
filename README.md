@@ -24,6 +24,8 @@ This project demonstrates how to control five LEDs using hand gestures detected 
 - OpenCV library
 - PySerial library
 
+## Video Demostration: https://github.com/Rajat22UEE/Gesture_Controlled-_LED/issues/1#issue-2544884559
+
 ## Installation
 
 1. **Install Python packages**:
